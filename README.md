@@ -10,4 +10,6 @@ Hello
 ### git commit 
 ### git checkout 
 ### git branch
+### git cherry-pick
+### git rebase
  
